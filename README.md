@@ -1,2 +1,2 @@
-# CPSC 221
-courses
+# CPSC
+CPSC 221 course related projects.  
