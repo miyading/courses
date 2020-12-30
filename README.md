@@ -1,1 +1,2 @@
-# courses-cs
+# CPSC 221
+courses
