@@ -4,3 +4,7 @@ A user-centered Repertoire APP with Graphical User Interface. The Repertoire APP
 
 STAT 344 Group Project (2020 Winter)
 During the current pandemic, all of us are adjusting to online courses. Therefore, in the group project for STAT 344 Sample Surveys, a group of five students, including myself and one of last year’s DSSG member (group leader), agreed to apply our knowledge of sampling strategies to infer if the average UBC class sizes are well-situated to be potentially conducted in-person with regards to the Provincial Protocols. Over two months, our group members collaborated online to collect the data, calculate appropriate sample sizes, and implement our two sampling schemes: SRS and Stratified Sampling with Proportional Allocation. During the next phase, we analyzed the dataset and generated plots using R, synthesized different estimations and sampling errors into tables, and each took parts of the writing using Latex. Please find the final report and associated R codes in the STAT 344 Group Project.zip file. 
+
+
+https://user-images.githubusercontent.com/48393318/202887026-4e671176-0746-407b-90b4-6251166ab1b4.mp4
+
